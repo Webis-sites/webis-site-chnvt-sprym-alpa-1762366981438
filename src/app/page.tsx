@@ -6,6 +6,7 @@ import About from '@/components/About';
 import Services from '@/components/Services';
 import Portfolio from '@/components/Portfolio';
 import Process from '@/components/Process';
+import Testimonials from '@/components/Testimonials';
 
 export default function HomePage() {
   return (
@@ -18,6 +19,7 @@ export default function HomePage() {
         <Services />
         <Portfolio />
         <Process />
+        <Testimonials />
       </main>
     </>
   );
