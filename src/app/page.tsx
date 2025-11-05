@@ -5,6 +5,7 @@ import Hero from '@/components/Hero';
 import About from '@/components/About';
 import Services from '@/components/Services';
 import Portfolio from '@/components/Portfolio';
+import Process from '@/components/Process';
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
         <About />
         <Services />
         <Portfolio />
+        <Process />
       </main>
     </>
   );
