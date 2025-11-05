@@ -9,6 +9,7 @@ import Process from '@/components/Process';
 import Testimonials from '@/components/Testimonials';
 import FAQ from '@/components/FAQ';
 import Booking from '@/components/Booking';
+import CTA from '@/components/CTA';
 
 export default function HomePage() {
   return (
@@ -24,6 +25,7 @@ export default function HomePage() {
         <Testimonials />
         <FAQ />
         <Booking />
+        <CTA />
       </main>
     </>
   );
