@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05T18:23:01.712Z",
+  "timestamp": "2025-11-05T18:33:50.129Z",
   "steps": {
     "planGenerated": false,
     "componentsGenerated": false,
@@ -9,6 +9,6 @@
     "deploymentStarted": false,
     "deploymentComplete": false
   },
-  "deployedUrl": null,
+  "deployedUrl": "webis-site-chnvt-sprym-alpa-1762366981438-8obiyl9g3.vercel.app",
   "error": null
 }
