@@ -8,6 +8,7 @@ import Portfolio from '@/components/Portfolio';
 import Process from '@/components/Process';
 import Testimonials from '@/components/Testimonials';
 import FAQ from '@/components/FAQ';
+import Booking from '@/components/Booking';
 
 export default function HomePage() {
   return (
@@ -22,6 +23,7 @@ export default function HomePage() {
         <Process />
         <Testimonials />
         <FAQ />
+        <Booking />
       </main>
     </>
   );
