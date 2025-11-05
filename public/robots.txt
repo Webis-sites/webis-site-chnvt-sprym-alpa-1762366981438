@@ -1,0 +1,7 @@
+
+    # robots.txt for חנות ספרים אלפא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://חנות-ספרים-אלפא.com/sitemap.xml
