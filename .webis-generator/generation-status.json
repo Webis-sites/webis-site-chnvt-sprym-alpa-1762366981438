@@ -1,11 +1,78 @@
 {
-  "timestamp": "2025-11-05T18:23:27.022Z",
+  "timestamp": "2025-11-05T18:24:29.680Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 11,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Main navigation bar with business name and section links, RTL-optimized"
+    },
+    {
+      "name": "Hero",
+      "type": "hero",
+      "status": "pending",
+      "description": "Hero section with main headline, description, and primary CTA"
+    },
+    {
+      "name": "About",
+      "type": "content",
+      "status": "pending",
+      "description": "About section highlighting business expertise and experience"
+    },
+    {
+      "name": "Services",
+      "type": "services",
+      "status": "pending",
+      "description": "Services showcase section with detailed service offerings"
+    },
+    {
+      "name": "Portfolio",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Portfolio/gallery section showcasing work and collections"
+    },
+    {
+      "name": "Process",
+      "type": "content",
+      "status": "pending",
+      "description": "Step-by-step process section explaining how the service works"
+    },
+    {
+      "name": "Testimonials",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer testimonials and reviews section"
+    },
+    {
+      "name": "FAQ",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions accordion section"
+    },
+    {
+      "name": "Booking",
+      "type": "booking",
+      "status": "pending",
+      "description": "Appointment booking form section with contact form"
+    },
+    {
+      "name": "CTA",
+      "type": "cta",
+      "status": "pending",
+      "description": "Final call-to-action section before footer"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with business information and links"
+    }
+  ],
   "repoName": "webis-site-chnvt-sprym-alpa-1762366981438"
 }
