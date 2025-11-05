@@ -4,6 +4,7 @@ import React from 'react';
 import Hero from '@/components/Hero';
 import About from '@/components/About';
 import Services from '@/components/Services';
+import Portfolio from '@/components/Portfolio';
 
 export default function HomePage() {
   return (
@@ -14,6 +15,7 @@ export default function HomePage() {
         <Hero />
         <About />
         <Services />
+        <Portfolio />
       </main>
     </>
   );
